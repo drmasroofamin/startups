@@ -12,3 +12,5 @@ From this repository run `python -m http.server 8000`, then open a business fold
 See OWNER-NOTES.md in each folder. Generic service suggestions, hours placeholders and illustrations are explicitly labelled. Listed ratings are historical spreadsheet observations, not live ratings or fabricated reviews. WhatsApp links open a bilingual draft enquiry, never auto-send. A mobile number does not confirm WhatsApp registration. No owner has been contacted.
 
 The footer email belongs to SunriseAI, not the business. Review Arabic transliterations with each owner before final publication.
+
+Batch 2: Leads sheet rows 7–11 (businesses 6–10), including the Al Jazzat branch separately from branch 2. Ratings are omitted for Philomena, Abad Al Shams and Afrah because no rating was supplied. Landline WhatsApp links are unverified; use tap-to-call if unavailable.
